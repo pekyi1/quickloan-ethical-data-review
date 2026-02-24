@@ -26,4 +26,4 @@ Remove direct identifiers and mask/anonymize data before storing in Analytics DB
 
 ## Diagram Files
 - `diagrams/flawed-data-flow.png` should contain the original diagram.
-- `diagrams/corrected-data-flow.png` should contain your annotated version with callouts [1]–[5].
+- `diagrams/corrected-data-flow.png` should contain the annotated version with callouts [1]–[5].
